@@ -1,2 +1,2 @@
-# Rookies-1.0
-Rookies
+# College Management System
+This a college management system using C++.
